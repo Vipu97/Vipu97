@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vipinkiroula@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bLa1ghGxXE3kO4zIgczYhuZ0OGQc3lz7/view?usp=sharing](https://drive.google.com/file/d/1bLa1ghGxXE3kO4zIgczYhuZ0OGQc3lz7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bLa1ghGxXE3kO4zIgczYhuZ0OGQc3lz7/view?usp=sharing](https://drive.google.com/file/d/126QJgBiI5NMXecsHSkgzc6OZprBjYf5s/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
