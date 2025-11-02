@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipu97&label=Profile%20views&color=0e75b6&style=flat" alt="vipu97" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vipu.vercel.app](https://portfolio-vipu.vercel.app)
-
-- 💬 Ask me about **MERN Stack**
-
+  
 - 📫 How to reach me **vipinkiroula@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1jaS7H19B_Wg-4pr1_iUbSSL1I-aJgN3m/view?usp=drive_link
