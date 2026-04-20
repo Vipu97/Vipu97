@@ -57,5 +57,9 @@ I build scalable, high-performance web applications with a strong focus on front
 ### 📊 GitHub Stats
 
 <p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vipu97" />
+</p>
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipu97&layout=compact&hide_border=true" />
 </p>
